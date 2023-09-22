@@ -30,7 +30,13 @@
 # k = 6
 # #  -> 5
 
-
+# list_1 = [1, 2, 3, 4, 5]
+# n = int(input('Input a number: '))
+# list_2 = []
+# for i in range(len(list_1)):
+#     list_2.append(abs(n - list_1[i]))
+# min_index = list_2.index(min(list_2))
+# print(list_1[min_index])
 
 # Task 3: 
 # В настольной игре Скрабл (Scrabble) каждая буква имеет определенную ценность. 
