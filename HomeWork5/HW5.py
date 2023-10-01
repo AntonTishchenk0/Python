@@ -9,6 +9,14 @@
 # a, b = int(input('Input a number: ')), int(input('Input a number: '))
 # print(f(a, b))
 
+# def pow(a, b):
+#     if b == 0:
+#         return 1
+#     return pow(a, b - 1) * 5
+
+# a, b = int(input('Input a number: ')), int(input('Input a number: '))
+# print(pow(a, b))
+
 # Task 2:
 #Напишите рекурсивную функцию sum(a, b), возвращающую сумму двух целых неотрицательных чисел. 
 # Из всех арифметических операций допускаются только +1 и -1. Также нельзя использовать циклы.
